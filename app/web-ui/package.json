@@ -8,7 +8,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-
+    "@tiptap/pm": "^2.5.9",
+    "@tiptap/react": "^2.5.9",
+    "@tiptap/starter-kit": "^2.5.9"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.1",
